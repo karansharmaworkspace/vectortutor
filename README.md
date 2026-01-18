@@ -2,7 +2,7 @@
 
 A comprehensive AI-powered study assistant built with Streamlit and Groq API. This application uses 5 specialized agents to help you learn effectively from PDF documents.
 
-## 🎯 Features
+## Features
 
 ### 5 Specialized AI Agents
 
@@ -34,7 +34,7 @@ Knowledge Memory (SQLite) ← All agents read/write here
 5. Chat Agent: Answer doubts from PDF context
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 vectortutor/
@@ -54,7 +54,7 @@ vectortutor/
 └── README.md              # This file
 ```
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 
@@ -85,7 +85,7 @@ vectortutor/
 5. **Open your browser**
    - The app will automatically open at `http://localhost:8501`
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### 1. Upload & Read PDF
 - Navigate to "📄 Upload & Read PDF" page
@@ -190,4 +190,5 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 ---
 
 **Happy Studying! 📚✨**
+
 
