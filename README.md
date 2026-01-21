@@ -7,11 +7,11 @@ A comprehensive AI-powered study assistant built with Streamlit and Groq API. Th
 
 ### 5 Specialized AI Agents
 
-1. **📄 Reader Agent**: Extracts and structures content from PDF documents
-2. **🎴 Flashcard Agent**: Generates Q&A flashcards for active recall practice
-3. **📝 Quiz Agent**: Creates adaptive multiple-choice questions (easy/medium/hard)
-4. **📅 Planner Agent**: Builds personalized revision schedules
-5. **💬 Chat Agent**: Answers questions and summarizes notes from PDF context
+1. ** Reader Agent**: Extracts and structures content from PDF documents
+2. ** Flashcard Agent**: Generates Q&A flashcards for active recall practice
+3. ** Quiz Agent**: Creates adaptive multiple-choice questions (easy/medium/hard)
+4. ** Planner Agent**: Builds personalized revision schedules
+5. ** Chat Agent**: Answers questions and summarizes notes from PDF context
 
 ### Key Capabilities
 
@@ -191,6 +191,7 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 ---
 
 **Happy Studying! 📚✨**
+
 
 
 
