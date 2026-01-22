@@ -23,7 +23,7 @@ A comprehensive AI-powered study assistant built with Streamlit and Groq API. Th
 - **Performance Tracking**: Monitor your quiz performance and accuracy
 - **Note Summarization**: Generate concise summaries of your notes
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 Knowledge Memory (SQLite) ← All agents read/write here
@@ -191,6 +191,7 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 ---
 
 **Happy Studying! 📚✨**
+
 
 
 
